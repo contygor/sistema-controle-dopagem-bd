@@ -43,4 +43,4 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ## Glossário
 - DER: Diagrama Entidade-Relacionamento
-- MER: Modelo Entidad-Relacionamento
+- MER: Modelo Entidade-Relacionamento
