@@ -40,3 +40,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
    ```bash
    git clone https://github.com/seu-usuario/sistema-controle-dopagem.git
    cd sistema-controle-dopagem
+
+## Glossário
+- DER: Diagrama Entidade-Relacionamento
+- MER: Modelo Entidad-Relacionamento
