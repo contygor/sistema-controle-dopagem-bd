@@ -52,7 +52,7 @@ create table escolta (
     id int auto_increment primary key,
     data_escolta date,
     hora_escolta time,
-    nome_escola varchar(170),
+    nome_escolta varchar(170),
     assinatura_escolta blob
 );
 
