@@ -90,7 +90,8 @@ CREATE TABLE confirmacao (
     data_confirmacao DATE,
 	hora_finalizacao_exames TIME, 
 	id_representante_do_atleta INT, 
-	FOREIGN KEY (id_representante_do_atleta )
+	FOREIGN KEY (id_representante_do_atleta) REFERENCES representante_do_atleta(id)
+);
 
 CREATE TABLE oficial_de_controle (
     id INT AUTO_INCREMENT PRIMARY KEY,
